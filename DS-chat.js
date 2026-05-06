@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         DS导出Md
-// @namespace    
+// @namespace    https://github.com/CProgram-cc/DeepSeek-chat-export-CP
 // @version      1.0
 // @description  将DeepSeek网页端的AI对话导出为Markdown格式文件
 // @author       CPrograme
